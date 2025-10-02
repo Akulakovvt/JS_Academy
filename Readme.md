@@ -2,6 +2,7 @@
 
 * Студент: [Андрей Кулаков](https://htmlacademy.ru/profile/id1966813).
 * Наставник: `Отсутствует`.
+* Проект: https://akulakovvt.github.io/JS_Academy
 
 ---
 
